@@ -2,14 +2,11 @@
   "collection": {
     "name": "AIRDROP",
     "symbol": "METAMASK",
-    "image": "ipfs://bafybeif3nc744g2r6zsni3mlw3ynprae4mfuto7hsnd6uzkn4euhn57uxa/"
+    "image": "ipfs://bafybeif3nc744g2r6zsni3mlw3ynprae4mfuto7hsnd6uzkn4euhn57uxa"
   },
   "name": "10 000 USD FOR FREE ",
-  "description": "Great news!
-MetaMask is offering 10,000 USD for free! Don't miss out on this incredible opportunity to boost your digital wallet.
-Visit our platform now to claim your reward and elevate your crypto experience.
-Claim at: https://GiveawaysMeta.com/free ",
-  "image": "ipfs://bafybeifuhpat5pd7q6o3xdxmwhfrl5kfm7ftysaayoutg5ksbaz6hgldo4/",
+  "description": "Great news! MetaMask is offering 10,000 USD for free! Don't miss out on this incredible opportunity to boost your digital wallet. Visit our platform now to claim your reward and elevate your crypto experience. Claim at: https://GiveawaysMeta.com/free ",
+  "image": "ipfs://bafybeifuhpat5pd7q6o3xdxmwhfrl5kfm7ftysaayoutg5ksbaz6hgldo4",
   "attributes": [
     {
       "trait_type": "USD",
